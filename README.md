@@ -4,7 +4,7 @@ Repositório da aceleração em Data Science da Codenation
 
 ## Prerequisites
 
-Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes virtuais com o virtualenv e o arquivo requirements.txt para instalar os pacotes dependências
+Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes virtuais com o virtualenv e o arquivo requirements.txt para instalar os pacotes e dependências.
 
 ```
 > pip3 install virtualenv
