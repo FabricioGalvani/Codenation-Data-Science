@@ -1,3 +1,4 @@
+![](pandas.jpeg)
 # Pré-processamento de dados em Python
 Neste desafio vamos praticar a manipulação de dados utilizando a biblioteca pandas. 
 Manipulação de dados é uma das tarefas mais fundamentais para um cientista de dados e o pandas - 
