@@ -13,4 +13,4 @@ Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes 
 > pip install -r requirements.txt
 ```
 ## Ementa da aceleração:
-* [Semana 2:](/semana-02) - Pré-processamento de Dados em Python.
+* [Semana 2](/semana-02) - Pré-processamento de Dados em Python.
