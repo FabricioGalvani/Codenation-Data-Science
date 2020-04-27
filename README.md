@@ -16,3 +16,4 @@ Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes 
 ## Ementa da aceleração:
 * [Semana 1](/semana-02) - Introdução a Ciência de Dados.
 * [Semana 2](/semana-02) - Pré-processamento de Dados em Python.
+* [Semana 3](/semana-03) - Análise de dados exploratória.
